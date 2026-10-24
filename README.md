@@ -5,6 +5,9 @@ express key, tip or eraser. Each press moves the tablet's mapping, and the curso
 
 Requires OpenTabletDriver **0.6.5 or newer** (tested against the 0.6.5.1 and 0.6.8 plugin APIs) and **Absolute Mode**.
 
+<img width="504" height="450" alt="image" src="https://github.com/user-attachments/assets/4c1f1a88-5522-4379-a2f8-c0b5007f25ed" />
+
+
 ## Install
 
 **From the Plugin Manager:** in OpenTabletDriver, open **Plugins → Plugin Manager**, select
